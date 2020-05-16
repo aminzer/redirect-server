@@ -1,0 +1,11 @@
+{
+  "name": "redirect-server",
+  "version": "0.0.1",
+  "description": "Simple redirect server",
+  "main": "src/server.js",
+  "author": "aminzer",
+  "license": "ISC",
+  "dependencies": {
+    "cfenv": "^1.2.2"
+  }
+}
