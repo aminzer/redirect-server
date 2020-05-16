@@ -5,6 +5,9 @@
   "main": "src/server.js",
   "author": "aminzer",
   "license": "ISC",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "cfenv": "^1.2.2"
   }
