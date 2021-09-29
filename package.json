@@ -4,7 +4,7 @@
   "description": "Simple redirect server",
   "main": "src/server.js",
   "author": "aminzer",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "start": "node ."
   },
